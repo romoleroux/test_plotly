@@ -56,7 +56,7 @@ st.sidebar.markdown('---')
 st.sidebar.markdown('Demonstration App created with')
 st.sidebar.markdown('the toy dataset *Tips* from seaborn')
 
-st.sidebar.text('App created by Juan Maniglia')
+st.sidebar.text('App created by Manuel Romoleroux')
 
 #-----------------------------------------------------------------------
 
